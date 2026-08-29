@@ -1,39 +1,38 @@
 {
   "ja": {
-    "module.globalVideoTexture.name": "グローバル動画テクスチャ",
-    "module.globalVideoTexture.description": "アバター向けに動画と再生情報をグローバルシェーダー変数へ公開します"
+    "module.maksidze.globalVideoTexture.name": "グローバル動画テクスチャ",
+    "module.maksidze.globalVideoTexture.description": "アバター向けに動画と再生情報をグローバルシェーダー変数へ公開します"
   },
   "en": {
-    "module.globalVideoTexture.name": "Global Video Texture",
-    "module.globalVideoTexture.description": "Publishes video and playback data to global shader variables for avatars"
+    "module.maksidze.globalVideoTexture.name": "Global Video Texture",
+    "module.maksidze.globalVideoTexture.description": "Publishes video and playback data to global shader variables for avatars"
   },
   "ko": {
-    "module.globalVideoTexture.name": "글로벌 비디오 텍스처",
-    "module.globalVideoTexture.description": "아바타용 글로벌 셰이더 변수에 비디오와 재생 정보를 게시합니다"
+    "module.maksidze.globalVideoTexture.name": "글로벌 비디오 텍스처",
+    "module.maksidze.globalVideoTexture.description": "아바타용 글로벌 셰이더 변수에 비디오와 재생 정보를 게시합니다"
   },
   "zh-CN": {
-    "module.globalVideoTexture.name": "全局视频纹理",
-    "module.globalVideoTexture.description": "将视频和播放信息发布到供虚拟形象使用的全局着色器变量"
+    "module.maksidze.globalVideoTexture.name": "全局视频纹理",
+    "module.maksidze.globalVideoTexture.description": "将视频和播放信息发布到供虚拟形象使用的全局着色器变量"
   },
   "zh-TW": {
-    "module.globalVideoTexture.name": "全域影片紋理",
-    "module.globalVideoTexture.description": "將影片和播放資訊發佈到供虛擬形象使用的全域著色器變數"
+    "module.maksidze.globalVideoTexture.name": "全域影片紋理",
+    "module.maksidze.globalVideoTexture.description": "將影片和播放資訊發佈到供虛擬形象使用的全域著色器變數"
   },
   "es": {
-    "module.globalVideoTexture.name": "Textura de vídeo global",
-    "module.globalVideoTexture.description": "Publica el vídeo y los datos de reproducción en variables globales de shader para avatares"
+    "module.maksidze.globalVideoTexture.name": "Textura de vídeo global",
+    "module.maksidze.globalVideoTexture.description": "Publica el vídeo y los datos de reproducción en variables globales de shader para avatares"
   },
   "ru": {
-    "module.globalVideoTexture.name": "Глобальная видеотекстура",
-    "module.globalVideoTexture.description": "Публикует видео и данные воспроизведения в глобальные переменные шейдера для аватаров"
+    "module.maksidze.globalVideoTexture.name": "Глобальная видеотекстура",
+    "module.maksidze.globalVideoTexture.description": "Публикует видео и данные воспроизведения в глобальные переменные шейдера для аватаров"
   },
   "uk": {
-    "module.globalVideoTexture.name": "Глобальна відеотекстура",
-    "module.globalVideoTexture.description": "Публікує відео та дані відтворення у глобальні змінні шейдера для аватарів"
+    "module.maksidze.globalVideoTexture.name": "Глобальна відеотекстура",
+    "module.maksidze.globalVideoTexture.description": "Публікує відео та дані відтворення у глобальні змінні шейдера для аватарів"
   },
   "it": {
-    "module.globalVideoTexture.name": "Texture video globale",
-    "module.globalVideoTexture.description": "Pubblica video e dati di riproduzione nelle variabili shader globali per gli avatar"
+    "module.maksidze.globalVideoTexture.name": "Texture video globale",
+    "module.maksidze.globalVideoTexture.description": "Pubblica video e dati di riproduzione nelle variabili shader globali per gli avatar"
   }
 }
-

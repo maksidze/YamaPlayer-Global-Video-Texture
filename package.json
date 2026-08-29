@@ -1,7 +1,7 @@
 {
   "name": "com.maksidze.yamaplayer.global-video-texture",
   "displayName": "YamaPlayer Global Video Texture",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2022.3",
   "description": "Publishes YamaPlayer video and playback state through ProTV-compatible global shader variables.",
   "author": {
@@ -9,6 +9,6 @@
   },
   "vpmDependencies": {
     "com.vrchat.worlds": ">=3.8.1",
-    "net.kwxxw.yama-stream": ">=2.0.0"
+    "net.kwxxw.yama-stream": ">=2.0.0-beta.4"
   }
 }
